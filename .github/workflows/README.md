@@ -155,7 +155,8 @@ Located at `.github/workflows/ci-cd.yml`, the pipeline will:
 
 ## 📸 Screenshots
 
-![App Running](./ٍِScreenshot1.png)
+![App Running](images/Screenshot1.png)
+
 ---
 
 ## 📚 Technologies Used
